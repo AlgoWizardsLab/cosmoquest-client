@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "year": "13.8 Billion",
+      "title": "Big Bang",
+      "description": "The universe began from a singularity, exploding into existence with all space, time, and matter."
+    },
+    {
+      "id": 2,
+      "year": "13.6 Billion",
+      "title": "First Stars",
+      "description": "The earliest stars form, lighting up the universe for the first time."
+    },
+    {
+      "id": 3,
+      "year": "4.6 Billion",
+      "title": "Formation of the Solar System",
+      "description": "Our solar system, including the Sun and Earth, begins to take shape from a cloud of gas and dust."
+    },
+    {
+      "id": 4,
+      "year": "3.5 Billion",
+      "title": "Early Life on Earth",
+      "description": "First microbial life forms appear in Earth’s oceans."
+    },
+    {
+      "id": 5,
+      "year": "0 (Present)",
+      "title": "Modern Astronomy",
+      "description": "Humanity begins exploring the universe with telescopes, satellites, and deep-space missions."
+    }
+  ]
+  
